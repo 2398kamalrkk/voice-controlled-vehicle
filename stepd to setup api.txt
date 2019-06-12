@@ -1,0 +1,3 @@
+https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/speech/cloud-client
+https://console.cloud.google.com/cloudshell/editor
+https://virtualenv.pypa.io/en/latest/
